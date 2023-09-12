@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-08T10:58:34 ART" name="Default suite" finished-at="2023-09-08T10:58:42 ART" duration-ms="7858">
+  <suite started-at="2023-09-11T12:11:01 ART" name="Default suite" finished-at="2023-09-11T12:11:04 ART" duration-ms="3301">
     <groups>
     </groups>
-    <test started-at="2023-09-08T10:58:34 ART" name="Default test" finished-at="2023-09-08T10:58:42 ART" duration-ms="7858">
+    <test started-at="2023-09-11T12:11:01 ART" name="Default test" finished-at="2023-09-11T12:11:04 ART" duration-ms="3301">
       <class name="MyFirstTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-08T10:58:34 ART" name="beforeClass" finished-at="2023-09-08T10:58:34 ART" duration-ms="13" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-11T12:11:01 ART" name="beforeClass" finished-at="2023-09-11T12:11:01 ART" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="openGlobantWebTest()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-08T10:58:34 ART" name="openGlobantWebTest" finished-at="2023-09-08T10:58:41 ART" duration-ms="7261" status="PASS">
+        <test-method signature="openGlobantWebTest()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-11T12:11:01 ART" name="openGlobantWebTest" finished-at="2023-09-11T12:11:04 ART" duration-ms="3261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openGlobantWebTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-08T10:58:41 ART" name="afterClass" finished-at="2023-09-08T10:58:42 ART" duration-ms="559" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:MyFirstTest@128d2484]" started-at="2023-09-11T12:11:04 ART" name="afterClass" finished-at="2023-09-11T12:11:04 ART" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
