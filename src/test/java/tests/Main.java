@@ -5,7 +5,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Main {
 		
 	public static void main(String[] args) {
-		
 		WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "./src/test/resources/chromedriver/chromedriver.exe");  
 		driver = new ChromeDriver();
